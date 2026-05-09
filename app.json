@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "ConCalc",
+    "slug": "concalc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nilszachca.concalc"
+    },
+    "android": {
+      "package": "com.nilszachca.concalc"
+    }
+  }
+}
